@@ -7,8 +7,8 @@
     'description': """ ODOO check""",
     'category': 'Stock',
     'author': 'no',
-    # 'price': 10.0,
-    # 'currency': 'USD',
+    'price': 10.0,
+    'currency': 'USD',
     'website': '',
     'depends': [ 'web'],
     'data': [
